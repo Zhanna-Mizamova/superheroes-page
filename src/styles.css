@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .hero-card {
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .hero-card:hover {
+    transform: scale(1.05);
+  }
+  
